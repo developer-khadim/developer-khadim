@@ -13,7 +13,7 @@
 ---
 
 ## 🌐 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://khadimali-devx1.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://khadimalidav.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/developer-khadim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadim-ali12/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/khadimali05/)
@@ -41,7 +41,7 @@
 ## 💻 Tech Stack
 
 **Scraping & Automation:**
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white) ![Crawl4AI](https://img.shields.io/badge/Crawl4AI-6E56CF?style=for-the-badge&logo=python&logoColor=white) ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 **Python & Web Frameworks:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -66,7 +66,7 @@
 - **[Weather Web App](https://weather-web-app-sigma-ten.vercel.app/)** – Real-time forecasts with OpenWeather API.
 - **[QR Code Generator](https://qr-code-generator-kan7.vercel.app/)** – Instant QR creation with Next.js & TypeScript.
 
-_For more, visit my [Portfolio](https://khadimali-devx1.vercel.app/)_
+_For more, visit my [Portfolio](https://khadimalidav.vercel.app/)_
 
 ---
 
