@@ -90,7 +90,7 @@ Open-source projects, data automation & scraping pipelines, modern web apps with
 [LinkedIn](https://www.linkedin.com/in/khadim-ali12/) — Python automation, React.js, Next.js, and AI/dev tips.
 
 ## 📄 Know About My Experience
-📜 [View My Resume](https://github.com/developer-khadim/developer-khadim/blob/main/Khadim_Ali_React_Frontend_Developer_Resume.pdf)
+📜 [View My Resume](https://khadimalidav.vercel.app/cv)
 
 ---
 
