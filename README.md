@@ -40,7 +40,7 @@ I'm a **Junior Full-Stack Developer** and **Web Scraper & Automation Engineer** 
 <td width="50%" valign="top">
 
 ### 🕷️ Python Data Scraper & Automation Engineer
-**DuoAnalytics** · Remote · 04/2026 – Present
+**DuoAnalytics** · Remote · 04/2026 – 09/2026
 
 - Build and document **Scrapy** and **Playwright / BeautifulSoup** spiders for luxury fashion & resale marketplaces (Poshmark, The RealReal, Fashionphile, Jolicloset, Goofish)
 - Extract listings, pricing, and images at scale via proxy and REST API integrations, with strict data validation
